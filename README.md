@@ -1,6 +1,6 @@
 <h1 align="center">Loja de Jogos</h1>
 
-[![GitHub license](https://img.shields.io/github/license/Samuelvidal99/book-finder-app?style=for-the-badge)](https://github.com/Samuelvidal99/ner-drugs-api/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Samuelvidal99/book-finder-app?style=for-the-badge)](https://github.com/Samuelvidal99/loja-de-jogos-prog-2/blob/main/LICENSE)
 
 <p align="center">Essa aplicação fornece um sistema básico de uma e-commerce, como a steam, com uma interface gráfica intuitiva.</p>
 
@@ -19,7 +19,7 @@
 
 <h1>Demonstração</h1>
 
-<h1 align='center'><img src='./assets/app-demo.gif'></img></h1>
+<h1 align='center'><img src='./assets/demo-app01.png' width="700"}}></img><br><br><img src='./assets/demo-app02.png' width="700"}}></img></h1>
 
 ## Tecnologias
 
@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1>Status do Projeto</h1>
 <h4>Finalizado :white_check_mark:</h4>
 
-<h1>Autor</h1>
+<h1>Autores</h1>
 <a href="https://github.com/Samuelvidal99"><sub><b>Samuel Vidal</b></sub></a><br><br>
 Feito por <b>Samuel Vidal</b>, Entre em contato por: 
 
