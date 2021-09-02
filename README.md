@@ -11,7 +11,7 @@
  <a href="#requisitos">Requisitos</a> • 
  <a href="#status-do-projeto">Status do Projeto</a> • 
  <a href="https://github.com/Samuelvidal99/ner-drugs-api/blob/main/LICENSE">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autores">Autor</a>
 </p>
 
 <h1>Objetivo</h1>
